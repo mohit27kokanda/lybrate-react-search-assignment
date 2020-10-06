@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lybrate-react-search-assignment/static/css/main.e6e1bb53.chunk.css",
+    "main.js": "/lybrate-react-search-assignment/static/js/main.670c048e.chunk.js",
+    "main.js.map": "/lybrate-react-search-assignment/static/js/main.670c048e.chunk.js.map",
+    "runtime-main.js": "/lybrate-react-search-assignment/static/js/runtime-main.40b9228b.js",
+    "runtime-main.js.map": "/lybrate-react-search-assignment/static/js/runtime-main.40b9228b.js.map",
+    "static/js/2.d13672f7.chunk.js": "/lybrate-react-search-assignment/static/js/2.d13672f7.chunk.js",
+    "static/js/2.d13672f7.chunk.js.map": "/lybrate-react-search-assignment/static/js/2.d13672f7.chunk.js.map",
+    "index.html": "/lybrate-react-search-assignment/index.html",
+    "precache-manifest.618598e4e4d2a363e3b3efbfb6842974.js": "/lybrate-react-search-assignment/precache-manifest.618598e4e4d2a363e3b3efbfb6842974.js",
+    "service-worker.js": "/lybrate-react-search-assignment/service-worker.js",
+    "static/css/main.e6e1bb53.chunk.css.map": "/lybrate-react-search-assignment/static/css/main.e6e1bb53.chunk.css.map",
+    "static/js/2.d13672f7.chunk.js.LICENSE.txt": "/lybrate-react-search-assignment/static/js/2.d13672f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40b9228b.js",
+    "static/js/2.d13672f7.chunk.js",
+    "static/css/main.e6e1bb53.chunk.css",
+    "static/js/main.670c048e.chunk.js"
+  ]
+}
